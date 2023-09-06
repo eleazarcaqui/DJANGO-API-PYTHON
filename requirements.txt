@@ -7,3 +7,4 @@ djangorestframework-simplejwt
 python-decouple
 gunicorn
 whitenoise
+drf-yasg
